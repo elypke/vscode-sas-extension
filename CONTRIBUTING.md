@@ -96,6 +96,7 @@ Follow these steps to update a locale for the SAS Extension for VSCode:
 | **Japanese**             | ja                 | Masayuki Iizuka                                   |
 | **Korean**               | ko                 | Meilan Ji                                         |
 | **Portuguese (Brazil)**  | pt-br              | Mark Jordan                                       |
+| **Spanish**              | es                 | Raquel Nunez and Elyana Mastache                  |
 
 ## Run single test file
 
